@@ -14,7 +14,9 @@ With model-based collaborative filtering systems, you build a recommender model 
 # dataset
 
 for dataset we are going to use the 100k MovieLens dataset.
+
 -u.data
+
 -u.item
 
 
