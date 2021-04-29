@@ -4,8 +4,11 @@ With model-based collaborative filtering systems, you build a recommender model 
 # Libraries
 
 -numpy
+
 -pandas
+
 -sklearn
+
 -TruncatedSVD
 
 # dataset
